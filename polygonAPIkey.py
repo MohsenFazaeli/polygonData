@@ -6,4 +6,4 @@ polygon.io API secrets
 
 """
 
-polygonAPIkey = 'APIkey'
+polygonAPIkey = '8Hc_kMudwMDM2nadCAWlJNuPSTgUVwME'
