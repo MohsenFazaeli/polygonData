@@ -27,7 +27,7 @@ from polygonAPIkey import polygonAPIkey
 client = RESTClient(polygonAPIkey)  # api_key is used
 
 contractNames = []
-for c in client.list_options_contracts(underlying_ticker='AAPL', limit=1000):
+for c in client.list_options_contracts(underlying_ticker='XPS', limit=1000):
     contractNames.append(c)
 print(contractNames)
 
