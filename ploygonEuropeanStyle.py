@@ -40,5 +40,7 @@ def extract_european_contracts():
 
 
 # Run the extraction function
+
+
 if __name__ == "__main__":
     extract_european_contracts()
